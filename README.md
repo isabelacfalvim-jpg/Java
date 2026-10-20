@@ -1,6 +1,6 @@
-# Monitoria de Java — [Nome da Disciplina]
+# Monitoria de Java
 
-Repositório com os materiais, exercícios e anotações da monitoria de Java que cursei no meu primeiro semestre, em [semestre/ano], na [Instituição].
+Repositório com os materiais, exercícios e anotações da monitoria de Java que cursei no meu primeiro semestre, em 2026, no CEUB.
 
 ## Sobre a monitoria
 
